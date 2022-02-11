@@ -3,6 +3,7 @@ package Entidades;
 public class CadenaEnt {
 
     private String frase;
+    private String atrib1;
     
     
 
